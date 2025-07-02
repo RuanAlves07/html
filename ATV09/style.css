@@ -1,0 +1,16 @@
+aside {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    text-align: left;  
+}
+p {
+
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    color: darkblue;
+    text-align: left;
+    font-family: "Arial Narrow";
+    font-size: 15pt;
+}
